@@ -1,2 +1,2 @@
 # Akash
-Related to Akashnet
+Related to Decentralized Cloud
