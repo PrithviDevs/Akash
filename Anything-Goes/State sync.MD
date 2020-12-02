@@ -73,15 +73,7 @@ seeds = "f544d9a145b9830e0fedacf8fcb37780ed96deb3@51.77.121.116:26656"
 
 Now, `akash unsafe-reset-all` and `akash start`. Now your node will sync from the latest snapshot that available.
 
-![](assets/akash_node_1080p.mov)
-
-<video width="320" height="240" controls>
-  <source src="assets/akash_node_1080p.mov" type="video/mp4">
-</video>
-
-
-<iframe width="420" height="345" src="assets/akash_node_1080p.mov">
-</iframe>
+![akash](assets/akash-node.gif)
 
 
 This configuration is suitable to other Tendermint/Cosmos based blockchains with latest Stargate version.
