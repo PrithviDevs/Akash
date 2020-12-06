@@ -1,2 +1,2 @@
-# Akash
-Related to Decentralized Cloud
+# Initial page
+
